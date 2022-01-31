@@ -1,0 +1,10 @@
+body [data-m-t="header"] {
+    --msv-header-font-size: 16px;
+    --msv-header-icon-font-size: 20px;
+}
+
+body [data-m-t="search"] {
+    --msv-search-form-bg: #F8F7F6;
+    --msv-search-form-border: #F8F7F6;
+    --msv-search-form-search-btn-color: #4C833A;
+}
